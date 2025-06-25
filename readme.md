@@ -5,6 +5,7 @@ A simple Tkinter-based tool to inject customized `modinfo.ini` and `screenshot.p
 Meant to be used together with [Nexus Information Fetcher](https://github.com/Motor-k/Nexusmods-Info-Fetcher) a program that allows the user to specify a game name and a mod id and automatically get its information from [nexusmods](https://www.nexusmods.com/) for use in conjunction with [fluffy mod manager](https://www.nexusmods.com/site/mods/818)
 
 Gui Version:
+
 ![Image of the program](https://i.imgur.com/6jR3oml.png)
 
 How multiple options looks like in [Fluffy Mod Manager](https://www.nexusmods.com/site/mods/818):
