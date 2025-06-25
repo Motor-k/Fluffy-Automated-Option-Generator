@@ -1,0 +1,1 @@
+python Fluffy_Automated_Option_Generator.py kek.zip --ini=modinfo.ini --screenshot=screenshot.png
