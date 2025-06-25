@@ -9,6 +9,7 @@ Gui Version:
 ![Image of the program](https://i.imgur.com/6jR3oml.png)
 
 How multiple options looks like in [Fluffy Mod Manager](https://www.nexusmods.com/site/mods/818):
+
 ![Image of fluffy mod manager multiple options](https://i.imgur.com/qoi2red.png)
 ![Image of fluffy mod manager multiple options](https://i.imgur.com/s2w3Sst.png)
 
