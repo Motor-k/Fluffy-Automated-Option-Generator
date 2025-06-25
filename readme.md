@@ -3,6 +3,7 @@
 A simple Tkinter-based tool to inject customized `modinfo.ini` and `screenshot.png` into each top-level folder within a ZIP archive, based on an original metadata INI and image.
 
 Meant to be used together with [Nexus Information Fetcher](https://github.com/Motor-k/Nexusmods-Info-Fetcher) a program that allows the user to specify a game name and a mod id and automatically get its information from [nexusmods](https://www.nexusmods.com/) for use in conjunction with [fluffy mod manager](https://www.nexusmods.com/site/mods/818)
+
 ---
 
 ## Libraries Used
